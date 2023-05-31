@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    for (int i = 0; i < N; i++)
+    for (long long i = 0; i < N; i++)
     {
         switch (i % 10)
         {

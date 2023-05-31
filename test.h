@@ -2,6 +2,6 @@
 #define TEST_H
 
 #include "cases.h"
-#define N 1000000000
+#define N 20000000000
 
 #endif
